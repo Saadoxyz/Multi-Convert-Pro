@@ -135,16 +135,6 @@ g++ -o convert main.cpp
 
 ---
 
-## 📷 Screenshots (Coming Soon)
-
-| Feature            | Screenshot |
-| ------------------ | ---------- |
-| Fuel Module UI     | 📷         |
-| Currency Converter | 📷         |
-| GPA Calculator     | 📷         |
-
----
-
 ## 🧠 Learnings & Reflections
 
 * Mastery over **modular code design** in C++
@@ -166,9 +156,9 @@ We welcome all suggestions, bug reports, or feature requests!
 
 ## 🧑‍💻 Authors
 
-| Name          | Role                                                                         |
-| ------------- | ---------------------------- ----------------------------------------------- | 
-| Saad Khan     | GPA Converter, Documentation, Currency Converter, Fuel Consumption Module    |
+| Name       | Role                                                                                     |
+|------------|-------------------------------------------------------------------------------------------|
+| Saad Khan  | GPA Converter, Documentation, Currency Converter, Fuel Consumption Module               |
 
 ---
 
@@ -181,11 +171,11 @@ This project is licensed under the **MIT License**.
 ## 🌟 GitHub Stats & SVG
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadoxyz&show_icons=true&theme=radical">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saadoxyz&theme=tokyonight">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=monokai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadoxyz&theme=monokai">
 </p>
 
 ---
